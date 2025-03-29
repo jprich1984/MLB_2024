@@ -1,8 +1,6 @@
 # Ignore junk folder
 junk/
 
-# Ignore CSV files (if you still have any accidentally)
-*.csv
 
 # Ignore Python bytecode
 __pycache__/
